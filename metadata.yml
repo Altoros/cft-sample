@@ -1,0 +1,21 @@
+title: CF For Operators Second
+price: 21.5
+description: Learn how to efficiently manage Cloud Foundry users and resources,
+  ensure that your deployments are secure, and create your own buildpacks and service
+  brokers.
+labels:
+  for: operators
+  product: "Cloud Foundry"
+lessons:
+- folder: 001_quick_start
+  title: Quick Start
+  description: This lesson introduces the main abailities of the training platform.
+  steps:
+  - path: 01_introduction
+    title: Introduction
+  - path: 02_course_structure
+    title: Course structure
+  - path: 03_metadata_file
+    title: Metadata file
+- folder: 002_training_platform_main_concepts
+- 003_training_platform_main_concepts

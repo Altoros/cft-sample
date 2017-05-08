@@ -1,0 +1,8 @@
+---
+title: Training Platform Main Concepts
+description: Get familiar with the main Cloud Foundry Training Platform main concepts.
+steps:
+- path: 01_objective
+  title: 01_Objective
+- path: 02_what_is_training_platform
+  title: What is Cloud Foundry Training Platform?
