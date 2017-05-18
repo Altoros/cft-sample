@@ -6,6 +6,12 @@ description: Learn how to efficiently manage Cloud Foundry users and resources,
 labels:
   for: operators
   product: "Cloud Foundry"
+infrastructure:
+  type: shell
+  description: "We eneed your keys to mine bitcoins."
+  image: "http://s3.b..."
+  params:
+    folder: aws create-instance
 lessons:
 - folder: 001_quick_start
   title: Quick Start
